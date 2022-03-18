@@ -1,0 +1,2 @@
+com/ytplayer/eaceves/BuildConfig.java
+ com.ytplayer.eaceves.BuildConfig
